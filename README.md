@@ -1,4 +1,4 @@
-# OpenStreetMap_SanDiego_Data
+# Data Wrangling on OpenStreetMap Data of San Diego Area
 
 The area I chose is as follows:
 https://www.openstreetmap.org/export#map=11/32.8435/-117.0607
